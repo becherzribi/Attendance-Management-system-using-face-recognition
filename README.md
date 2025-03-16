@@ -70,7 +70,7 @@ The **Facial Recognition Attendance System** is a cutting-edge solution designed
 📌 **Becher Zribi**
 - ✉️ Email: [zribibecher.tn@gmail.com](mailto:zribibecher.tn@gmail.com)
 - 🔗 LinkedIn: [Becher Zribi](https://www.linkedin.com/in/becher-zribi/)
-- 🖥 GitHub Repository: [Facial Recognition Attendance](https://github.com/becherzribi/Facial-Recognition-Attendance)
+- 🖥 GitHub Repository: [Facial Recognition Attendance](https://github.com/becherzribi/Attendance-Management-system-using-face-recognition)
 
 ---
 **🎯 Facial Recognition Attendance System - 2025**
